@@ -1,0 +1,40 @@
+{
+  "message": [
+    {
+      "id": 8,
+      "generateId": "pik718jg08",
+      "image": "image1685963909694fantasy-4057707.jpg",
+      "title": "technologies-1",
+      "url": "https://81.0.246.73/",
+      "status": 1,
+      "slug": "technologies-1"
+    },
+    {
+      "id": 9,
+      "generateId": "tpstmxzzlb",
+      "image": "image1685967577644love-3187623_1920.jpg",
+      "title": "technologies  2",
+      "url": "https://81.0.246.73/",
+      "status": 1,
+      "slug": "technologies--2"
+    },
+    {
+      "id": 10,
+      "generateId": "v39fpoozq6",
+      "image": "image1686639936089giraffe-1959110_1280.jpg",
+      "title": "anc",
+      "url": "undefined",
+      "status": 1,
+      "slug": "anc"
+    },
+    {
+      "id": 11,
+      "generateId": "d4kam0taus",
+      "image": "image1686655394289worldwide (1).png",
+      "title": "tytytytytyty",
+      "url": "undefined",
+      "status": 1,
+      "slug": "tytytytytyty"
+    }
+  ]
+}

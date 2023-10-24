@@ -1,0 +1,35 @@
+{
+  "message": [
+    {
+      "id": 4,
+      "title": "Lightning Arrester",
+      "image": "image1686904894227mortarboard.png"
+    },
+    {
+      "id": 5,
+      "title": "SPD and fuses",
+      "image": "image1686904904175telephone.png"
+    },
+    { "id": 6, "title": "Welding", "image": "image1686904910441trophy.png" },
+    {
+      "id": 9,
+      "title": "Earthing Electrode",
+      "image": "image1686911831129tiramisu-7030032_1920.jpg"
+    },
+    {
+      "id": 10,
+      "title": "EEC & Bentonite powder",
+      "image": "image1686911848975trans.png"
+    },
+    {
+      "id": 11,
+      "title": "Earth Pit Covers",
+      "image": "image1686911863870nnn.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Dischsrge Rods",
+      "image": "image1686911879733giraffe-1959110_1280.jpg"
+    }
+  ]
+}
